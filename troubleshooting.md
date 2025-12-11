@@ -1,9 +1,3 @@
-
----
-
-# **troubleshooting.md**
-
-```markdown
 # Troubleshooting Common Issues
 
 Here are common problems when interacting with APIs:
