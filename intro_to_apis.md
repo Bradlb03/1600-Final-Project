@@ -14,3 +14,7 @@ A typical API response might look like:
   "temperature": 72,
   "condition": "Sunny"
 }
+
+## Navigation  
+[Next →: Making Your First API Request](making_requests.md)  
+[Return to Home](README.md)
