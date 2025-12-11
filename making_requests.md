@@ -21,4 +21,8 @@ Open the URL in a browser or run:
 
 ```bash
 curl https://dog.ceo/api/breeds/image/random
+```
 
+## Navigation  
+[Next →: Troubleshooting](troubleshooting.md)  
+[Return to Home](README.md)
