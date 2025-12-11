@@ -19,7 +19,6 @@ Use the "Dog API," which returns a random photo of a dog:
 ## Step 2: Make the Request  
 Open the URL in a browser or run:
 
-```bash
 curl https://dog.ceo/api/breeds/image/random
 ```
 
