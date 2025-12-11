@@ -24,6 +24,6 @@ curl https://dog.ceo/api/breeds/image/random
 ```
 
 ## Navigation   
-[← Back: ReadMe](README.md)  
+[← Back: Intro to APIs](intro_to_apis.md)  
 [Next →: Troubleshooting](troubleshooting.md)  
 [Return to Home](README.md)
