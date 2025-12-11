@@ -23,6 +23,7 @@ Open the URL in a browser or run:
 curl https://dog.ceo/api/breeds/image/random
 ```
 
-## Navigation  
+## Navigation   
+[← Back: ReadMe](README.md)  
 [Next →: Troubleshooting](troubleshooting.md)  
 [Return to Home](README.md)
