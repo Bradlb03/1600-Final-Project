@@ -11,8 +11,8 @@ You will use a browser or a tool like curl/Postman to request data from a public
 ---
 
 ## Step 1: Choose a Simple Public API  
-Use the "Bored API," which returns activity ideas:  
-`https://www.boredapi.com/api/activity`
+Use the "Dog API," which returns a random photo of a dog:  
+`https://dog.ceo/api/breeds/image/random`
 
 ---
 
@@ -20,5 +20,5 @@ Use the "Bored API," which returns activity ideas:
 Open the URL in a browser or run:
 
 ```bash
-curl https://www.boredapi.com/api/activity
+curl https://dog.ceo/api/breeds/image/random
 
