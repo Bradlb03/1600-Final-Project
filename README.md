@@ -1,7 +1,7 @@
 # 1600-Final-Project
 
 # Introduction to Web APIs  
-**Author:** Bennet  
+**Author:** Bennet Bradley
 
 ## Summary  
 This tutorial teaches beginners how to understand, interact with, and troubleshoot basic Web API requests. You will learn what APIs are, how they work, and how to use simple tools to make requests and view responses.  
